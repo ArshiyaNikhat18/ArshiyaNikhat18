@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArshiyaNikhat18
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning .net ,.net core, blazor, mvc etc
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Schoolex.Onion
 - 📫 How to reach me quraishiarshiya18@gmail.com
 
 <!---
